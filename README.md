@@ -72,6 +72,7 @@ Most importantly, I now understand how frontend apps connect to real-time data a
 ## Final Output
 
 The final output is a working weather web app that fetches and displays the current weather for any city the user enters. I tested it with multiple cities like "London", "New York", "Chennai", and it displayed the data properly.
-
 This was a great first task that helped me get confident in working with live APIs and building frontend projects that fetch and show dynamic data.
+
+![Image](https://github.com/user-attachments/assets/012bcc14-faee-455d-9ec8-2c3b1b0f02f1)
 
